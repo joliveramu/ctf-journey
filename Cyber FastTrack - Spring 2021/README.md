@@ -1,0 +1,1 @@
+I have added some of my submitted flags I did for this challenge. I'll add more detailed response done to capture the flag for this challenges.
